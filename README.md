@@ -12,11 +12,11 @@
 * **Nama Tim:** BISMILLAH JUARA 1 WKWK
 * **Institusi:** Universitas Bina Insani
 * **Anggota:**
-  1. [Nama Kamu] - *Data Engineer*
+  1. RENALDI TRIHARSONO - *Data Engineer*
     * *Fokus:* Pengumpulan data (Data Collection), pembersihan data (Cleaning), dan integrasi dataset (Data Merging).
-  2. [Nama Teman 1] - *Data Scientist*
+  2. MUHAMMAD NABIL DEJA - *Data Scientist*
     * *Fokus:* Pemodelan (Clustering K-Means), evaluasi model (Silhouette Score), dan visualisasi data interaktif (Mapping & Charting).
-  3. [Nama Teman 2] - *Research Analyst*
+  3. ADITYA DWI SETIAWAN - *Research Analyst*
     * *Fokus:* Riset literatur, analisis kebijakan, penyusunan laporan ilmiah, dan pengembangan materi presentasi.
 ---
 
