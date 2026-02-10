@@ -77,12 +77,12 @@ Penelitian ini menggunakan metode **Unsupervised Learning** dengan alur kerja se
 Berdasarkan algoritma K-Means, Indonesia terbagi menjadi 3 Zona Realitas:
 
 ### 1. Peta Zonasi Kesenjangan Digital
-*(Visualisasi spasial sebaran zona di seluruh kepulauan Indonesia)*
-![Peta ](Visual_2_Peta.png)
+*Visualisasi spasial sebaran zona di seluruh kepulauan Indonesia*
+![Peta ](Visualisasi/Visual_2_Peta.png)
 
 ### 2. Peta Sebaran (Scatter Plot)
-*(Hubungan antara Ekonomi vs Ketersediaan Internet. Terlihat Zona Merah tertinggal di kedua aspek)*
-![Scatter Plot](Visual_1_Scatter.png)
+*Hubungan antara Ekonomi vs Ketersediaan Internet. Terlihat Zona Merah tertinggal di kedua aspek*
+![Scatter Plot](Visualisasi/Visual_1_Scatter.png)
 
 ### 3. Profil Karakteristik Zona
 | Zona | Status | Karakteristik Utama | Rekomendasi Kebijakan |
