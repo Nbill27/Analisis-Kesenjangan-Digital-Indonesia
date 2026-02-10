@@ -8,16 +8,22 @@
 
 ---
 
+# [Judul Proyek Data Science Kalian]
+
 ## 👨‍💻 Identitas Tim
-* **Nama Tim:** BISMILLAH JUARA 1 WKWK
-* **Institusi:** Universitas Bina Insani
-* **Anggota:**
-  1. RENALDI TRIHARSONO - *Data Engineer*
-    * *Fokus:* Pengumpulan data (Data Collection), pembersihan data (Cleaning), dan integrasi dataset (Data Merging).
-  2. MUHAMMAD NABIL DEJA - *Data Scientist*
-    * *Fokus:* Pemodelan (Clustering K-Means), evaluasi model (Silhouette Score), dan visualisasi data interaktif (Mapping & Charting).
-  3. ADITYA DWI SETIAWAN - *Research Analyst*
-    * *Fokus:* Riset literatur, analisis kebijakan, penyusunan laporan ilmiah, dan pengembangan materi presentasi.
+
+| Properti | Detail |
+| :--- | :--- |
+| **Nama Tim** | BISMILLAH JUARA 1 WKWK |
+| **Institusi** | Universitas Bina Insani |
+
+### 👥 Anggota Tim
+
+| Nama Anggota | Peran | Fokus & Tanggung Jawab |
+| :--- | :--- | :--- |
+| **Renaldi Triharsono** | *Data Engineer* | Pengumpulan data (Data Collection), pembersihan data (Cleaning), dan integrasi dataset (Data Merging). |
+| **Muhammad Nabil Deja** | *Data Scientist* | Pemodelan (Clustering K-Means), evaluasi model (Silhouette Score), dan visualisasi data interaktif (Mapping & Charting). |
+| **Aditya Dwi Setiawan** | *Research Analyst* | Riset literatur, analisis kebijakan, penyusunan laporan ilmiah, dan pengembangan materi presentasi. |
 ---
 
 ## 📌 Latar Belakang Masalah
