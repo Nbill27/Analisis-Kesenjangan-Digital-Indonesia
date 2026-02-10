@@ -13,14 +13,14 @@ di Indonesia di Era Society 5.0 Menggunakan K-Means
 
 Clustering
 
-## 👨‍💻 Identitas Tim
+## Identitas Tim
 
 | Properti | Detail |
 | :--- | :--- |
 | **Nama Tim** | BISMILLAH JUARA 1 WKWK |
 | **Institusi** | Universitas Bina Insani |
 
-### 👥 Anggota Tim
+### Anggota Tim
 
 | Nama Anggota | Peran | Fokus & Tanggung Jawab |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ Clustering
 | **Aditya Dwi Setiawan** | *Research Analyst* | Riset literatur, analisis kebijakan, penyusunan laporan ilmiah, dan pengembangan materi presentasi. |
 ---
 
-## 📌 Latar Belakang Masalah
+##  Latar Belakang Masalah
 Menyongsong era **Society 5.0**, pendidikan berbasis teknologi menjadi prasyarat mutlak untuk mencetak SDM unggul menuju **Indonesia Emas 2045**. Pemerintah telah merespons dengan berbagai kebijakan digitalisasi pendidikan.
 
 Namun, realitas di lapangan menunjukkan adanya **Kesenjangan Digital (*Digital Divide*)** yang tajam antarwilayah.
@@ -39,14 +39,14 @@ Namun, realitas di lapangan menunjukkan adanya **Kesenjangan Digital (*Digital D
 
 ---
 
-## 🎯 Tujuan Penelitian
+## Tujuan Penelitian
 1.  **Memetakan** 34 provinsi di Indonesia ke dalam zona prioritas (Merah, Kuning, Hijau) berdasarkan kesiapan infrastruktur.
 2.  **Mendiagnosis** akar masalah ketertinggalan di daerah 3T (apakah karena faktor ekonomi, fisik, atau digital?).
 3.  **Memberikan rekomendasi** kebijakan berbasis data (*data-driven*) yang presisi.
 
 ---
 
-## 🗂️ Dataset & Fitur
+## Dataset & Fitur
 Dataset merupakan hasil agregasi (*data blending*) dari sumber resmi pemerintah (BPS & Kemendikbud) tahun 2021-2024.
 
 **5 Indikator Utama yang Digunakan:**
@@ -60,7 +60,7 @@ Dataset merupakan hasil agregasi (*data blending*) dari sumber resmi pemerintah 
 
 ---
 
-## ⚙️ Metodologi
+##  Metodologi
 Penelitian ini menggunakan metode **Unsupervised Learning** dengan alur kerja sebagai berikut:
 
 1.  **Data Preprocessing:** Cleaning, Normalisasi nama provinsi, dan Scaling (StandardScaler).
@@ -72,7 +72,7 @@ Penelitian ini menggunakan metode **Unsupervised Learning** dengan alur kerja se
 
 ---
 
-## 📊 Hasil Analisis & Visualisasi
+## Hasil Analisis & Visualisasi
 
 Berdasarkan algoritma K-Means, Indonesia terbagi menjadi 3 Zona Realitas:
 
@@ -101,7 +101,7 @@ Daerah dengan skor kesiapan terendah yang membutuhkan intervensi segera:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 * **Bahasa:** Python 3.10
 * **Data Processing:** Pandas, NumPy
 * **Machine Learning:** Scikit-Learn (KMeans, PCA, Metrics)
@@ -109,11 +109,11 @@ Daerah dengan skor kesiapan terendah yang membutuhkan intervensi segera:
 
 ---
 
-## 📂 Struktur File
+## Struktur File
 * `MASTER v2.csv`: Dataset utama yang sudah bersih.
 * `Analisis_Kesenjangan.ipynb`: Source code lengkap (Jupyter Notebook).
 * `HASIL_AKHIR.csv`: Hasil clustering beserta label zonanya.
 * `/Visualisasi`: Folder berisi gambar output (Peta, Grafik).
 
 ---
-*Project ini dibuat dengan ❤️ untuk kemajuan pendidikan Indonesia.*
+*Project ini dibuat untuk kemajuan pendidikan Indonesia.*
