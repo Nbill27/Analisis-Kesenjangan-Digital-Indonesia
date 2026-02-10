@@ -8,7 +8,10 @@
 
 ---
 
-# [Judul Proyek Data Science Kalian]
+# Pemetaan Kesenjangan Infrastruktur Digital Pendidikan
+di Indonesia di Era Society 5.0 Menggunakan K-Means
+
+Clustering
 
 ## 👨‍💻 Identitas Tim
 
